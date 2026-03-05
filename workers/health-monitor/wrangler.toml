@@ -1,0 +1,10 @@
+name = "algorithms-health-monitor"
+main = "src/worker.js"
+compatibility_date = "2024-12-01"
+
+[triggers]
+crons = ["*/30 * * * *"]
+
+[vars]
+REPO_OWNER = "blackboxprogramming"
+REPO_NAME = "algorithms"

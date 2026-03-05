@@ -1,4 +1,4 @@
-"""
+r"""
 Binary Heap. A min heap is a complete binary tree where each node is smaller
 its childen. The root, therefore, is the minimum element in the tree. The min
 heap use array to represent the data and operation. For example a min heap:

@@ -1,7 +1,6 @@
+[![CI](https://github.com/blackboxprogramming/algorithms/actions/workflows/ci.yml/badge.svg)](https://github.com/blackboxprogramming/algorithms/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/blackboxprogramming/algorithms/actions/workflows/codeql.yml/badge.svg)](https://github.com/blackboxprogramming/algorithms/actions/workflows/codeql.yml)
 [![PyPI version](https://badge.fury.io/py/algorithms.svg)](https://badge.fury.io/py/algorithms)
-[![Open Source Helpers](https://www.codetriage.com/keon/algorithms/badges/users.svg)](https://www.codetriage.com/keon/algorithms)
-[![Build Status](https://travis-ci.org/keon/algorithms.svg?branch=master)](https://travis-ci.org/keon/algorithms)
-[![Coverage Status](https://coveralls.io/repos/github/keon/algorithms/badge.svg?branch=master)](https://coveralls.io/github/keon/algorithms?branch=master)
 
 <p align="center"><img src="https://raw.githubusercontent.com/keon/algorithms/master/docs/source/_static/logo/logotype1blue.png"></p>
 
@@ -165,7 +164,7 @@ If you want to uninstall algorithms, it is as simple as:
     - [maximum_flow_dfs](algorithms/graph/maximum_flow_dfs.py)
     - [all_pairs_shortest_path](algorithms/graph/all_pairs_shortest_path.py)
     - [bellman_ford](algorithms/graph/bellman_ford.py)
-    - [Count Connected Components](algoritms/graph/count_connected_number_of_component.py)
+    - [Count Connected Components](algorithms/graph/count_connected_number_of_component.py)
 - [heap](algorithms/heap)
     - [merge_sorted_k_lists](algorithms/heap/merge_sorted_k_lists.py)
     - [skyline](algorithms/heap/skyline.py)

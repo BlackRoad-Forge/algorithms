@@ -1,0 +1,1 @@
+# No runtime dependencies required - algorithms is a pure Python package
